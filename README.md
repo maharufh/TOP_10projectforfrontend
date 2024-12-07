@@ -9,7 +9,8 @@ Shopping Cart: Build a simple shopping cart to add, view, and remove items.
 3.To-Do List: Implement a to-do list to add, mark as done, and delete tasks.
 
 4. Weather App: Display the current weather for a city using a public API.
-5. 
+
+ 
 5.Quiz App: Develop a quiz with multiple-choice questions and a score tracker.
 
 6.Expense Tracker: Build an app to track income and expenses with a summary.
