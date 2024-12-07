@@ -1,8 +1,9 @@
-# TOP_10projectforfrontend
+# TOP_20projectforfrontend
 
 Here is the top 20 project idea for beginner friendly frontend Developer.
 
 Shopping Cart: Build a simple shopping cart to add, view, and remove items.
+
 2.Video Player: Create a video player with play, pause, and volume controls.
 3.To-Do List: Implement a to-do list to add, mark as done, and delete tasks.
 4. Weather App: Display the current weather for a city using a public API.
